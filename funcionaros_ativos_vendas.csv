@@ -1,0 +1,7 @@
+id;nome;departamento;salario;lucro;ativo;data de nascimento
+101;Ana Silva;Vendas;5200.5;15400.0;True;1990-05-14
+103;Carla Oliveira;Vendas;6100.0;21300.5;True;1995-02-10
+107;Gabriel Souza;Vendas;5900.0;18900.0;True;1997-04-18
+111;Lucas Ferreira;Vendas;6300.0;24500.0;True;1996-10-09
+116;Sabrina Rocha;Vendas;5700.0;17200.0;True;1999-02-14
+120;Yasmin Moreira;Vendas;6000.0;20100.0;True;1996-08-25

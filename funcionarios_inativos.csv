@@ -1,0 +1,5 @@
+id;nome;departamento;salario;lucro;ativo;data de nascimento
+104;Diego Martins;Marketing;4500.0;8700.0;False;1992-07-30
+109;Igor Almeida;Operações;4100.0;5400.0;False;1989-08-14
+113;Nicolas Barbosa;TI;6800.0;0.0;False;1998-11-03
+119;William Teixeira;Financeiro;6500.0;13800.0;False;1991-04-02
