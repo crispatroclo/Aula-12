@@ -1,16 +1,13 @@
 id;nome;departamento;salario;lucro;ativo;data de nascimento
 101;Ana Silva;Vendas;5200.5;15400.0;True;1990-05-14
 103;Carla Oliveira;Vendas;6100.0;21300.5;True;1995-02-10
-104;Diego Martins;Marketing;4500.0;8700.0;False;1992-07-30
 105;Eduardo Santos;Financeiro;6900.0;12000.0;True;1985-09-17
 107;Gabriel Souza;Vendas;5900.0;18900.0;True;1997-04-18
-109;Igor Almeida;Operações;4100.0;5400.0;False;1989-08-14
 110;Juliana Ribeiro;Marketing;5300.0;9800.5;True;1994-06-21
 111;Lucas Ferreira;Vendas;6300.0;24500.0;True;1996-10-09
 112;Mariana Castro;Financeiro;7200.0;16500.0;True;1987-03-12
 115;Rodrigo Ramos;Operações;4300.0;6100.0;True;1993-05-19
 116;Sabrina Rocha;Vendas;5700.0;17200.0;True;1999-02-14
 118;Vanessa Dias;Marketing;4900.0;11300.0;True;1995-12-30
-119;William Teixeira;Financeiro;6500.0;13800.0;False;1991-04-02
 120;Yasmin Moreira;Vendas;6000.0;20100.0;True;1996-08-25
 121;Zeca Monteiro;Operações;4600.0;7500.0;True;1992-10-15
