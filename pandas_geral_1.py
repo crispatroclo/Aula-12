@@ -9,9 +9,9 @@
 # lê cvs e excel
 # visualiza e entende tendencias
 # filtra, cruza e calcula
-# sala resltados 
+# salva resltados 
 # checar documento disponibilizado pelo professor com os comandos
-# comousar: pd.comando_desejado
+# como usar: pd.comando_desejado
 # salva dados em linha e colunas:
 ## serie: 1 coluna
 ## dataframe: coleção de linhas e colunas, uma tabela
